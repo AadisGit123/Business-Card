@@ -1,0 +1,30 @@
+body {
+    margin: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #9a031e;
+    color: #fffcf2;
+    border-bottom: 15px solid #f35b04;
+    border-radius: 10px;      
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
+.info
+{
+    margin: 0 auto;
+}
